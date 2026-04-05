@@ -1,4 +1,4 @@
-# 🔍 RAG PDF Chatbot
+# RAG PDF Chatbot
 
 A Retrieval-Augmented Generation (RAG) chatbot that answers questions 
 based on the content of PDF documents.
